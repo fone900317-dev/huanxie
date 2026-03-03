@@ -1,0 +1,5 @@
+{
+  "name": "AI 商业摄影换鞋",
+  "description": "上传产品图和模特参考图，使用 AI 将模特脚上的鞋子替换为您的产品，生成专业级商业摄影照片。",
+  "requestFramePermissions": []
+}
